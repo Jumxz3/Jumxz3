@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Jumxz3
-- 👀 I’m interested in ... aprender varias linguagens de programação
+- 👀 I’m interested in ... learn programming languages
 - 🌱 I’m currently learning ... python
 - 💞️ I’m looking to collaborate on ... idk
-- 📫 How to reach me ... instagram ou discord
-- 😄 Pronouns: ... ele/dele
-- ⚡ Fun fact: Eu sei falar libras
+- 📫 How to reach me ... instagram or discord
+- 😄 Pronouns: ... he/him
+- ⚡ Fun fact: I know sign language
 
 <!---
 Jumxz3/Jumxz3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

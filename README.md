@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jumxz3
 - 👀 I’m interested in ... learn programming languages
 - 🌱 I’m currently learning ... python
-- 💞️ I’m looking to collaborate on ... idk
+- 💞️ I’m looking to collaborate on ... nothing for now 
 - 📫 How to reach me ... instagram or discord
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: I know sign language
